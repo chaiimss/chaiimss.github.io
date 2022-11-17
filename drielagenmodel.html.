@@ -1,0 +1,44 @@
+<html>
+  
+  <head>
+    <title>Drielagenmodel</title>
+  </head>
+  
+<body style="background-color:powderblue;">
+  
+  <h2><i><a href="./index.html">Menu</a><i></h2>
+   <p><a href="./drielagenmodel.html">Drielagenmodel</a>
+     |
+   <a href="./moederbord.html">Moederbord</a>
+     |
+   <a href="./processorengeheugen.html">Processor en geheugen</a>
+     |
+   <a href="./besturingssysteem.html">Besturingssysteem</a></p>
+    
+    <h1 align="center">Drielagenmodel</h1>
+    
+    <h2 align="center">Algemeen</h2>
+    <p align="center">Het drielagenmodel bestaat uit drie niveaus: de toepassingenlaag (software), 
+  de logische laag (software) en de fysieke laag (hardware). Deze lagen zijn zowel zichtbaar als onzichtbaar.</p>
+
+    <h2 align="center">De toepassingenlaag</h2>
+    <p align="center">De toepassingenlaag bestaat uit allerlei software; de toepassingen of 
+  applicaties. Op een smartphone zijn dat de apps die kunnen worden geïnstalleerd vanuit de Google Play Store 
+  (Android) of App Store (iOS).</p>
+
+    <h2 align="center">De logische laag</h2>
+    <p align="center">De logische laag bestaat uit software die de hardware aanstuurt. Deze 
+  software maakt het mogelijk om toepassingen (zoals apps) op het apparaat uit te voeren. Bij een smartphone 
+  bestaat de logische laag voornamelijk uit het besturingssysteem, bijvoorbeeld Android of iOS. We noemen dat 
+  een besturingssysteem, omdat het de hardware bestuurt. Ook bepaald het bijvoorbeeld wat de apps mogen doen.</p>
+
+    <h2 align="center">De fysieke laag</h2>
+    <p align="center">De fysieke laag bestaat uit de hardware die in een smartphone zit; van 
+  de accu tot en met de touchscreen.</p>
+
+    <h2 align="center">Hoe ziet dit eruit in beeld?<h2>
+    <p align="center"><img src="Screenshot 2022-11-14 11.05.41.png" alt="Een duidelijker beeld" align="center"><p>
+      
+    
+  </body>
+</html>
