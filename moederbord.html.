@@ -1,0 +1,41 @@
+<html>
+  
+  <head>
+    <title>Moederbord</title>
+  </head>
+  
+<body style="background-color:powderblue;">
+  
+ <h2><i><a href="./index.html">Menu</a><i></h2>
+   <p><a href="./drielagenmodel.html">Drielagenmodel</a>
+     |
+   <a href="./moederbord.html">Moederbord</a>
+     |
+   <a href="./processorengeheugen.html">Processor en geheugen</a>
+     |
+   <a href="./besturingssysteem.html">Besturingssysteem</a></p>
+    
+    <h1 align="center">Moederbord</h1>
+    
+    <h2 align="center">Algemeen</h2>
+    <p align="center">Het moederbord is de grootste hardware-interface in een 
+      computer. Het ziet eruit als een grote printplaat waar chips, verbindingen 
+      en aansluitingen voor onderdelen op zitten.</p>
+
+    <h2 align="center">Functie</h2>
+    <p align="center">De functie van een moederbord is dat het alle onderdelen 
+      met elkaar verbindt en alle onderdelen waarvan de computer gebruik maakt moeten worden 
+      aangesloten op het moederbord, want anders zal het niet werken, omdat de 
+      processor ze anders niet kan besturen. Echter, het geheugen en communicatie 
+      chips worden niet direct met elkaar verbonden, maar worden op de verbindingen 
+      van het moederbord aangesloten (direct of indirect).</p>
+    
+   
+   <h2 align="center">Hoe ziet een moederbord eruit?<h2>
+   <img src="Computer-motherboard.jpg" alt="Uiterlijk van het moederbord" style="width:384px;height:192px;" align="left">  
+   <img src="Moederbord+onderdelen_.jpg" alt="De onderdelen van een moederbord" style="width:480px;height:360px;" align="center">
+   <img src="77_2.jpg" alt="Uitleg in beeld" style="width:400px;height:226px;" align="right">
+   
+   
+  </body>
+</html>
