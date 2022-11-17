@@ -1,0 +1,66 @@
+<html>
+  
+  <head>
+    <title>Processor en geheugen</title>
+  </head>
+ 
+  
+<body style="background-color:powderblue;">
+  
+  
+  <h2><i><a href="./index.html">Menu</a><i></h2>
+   <p><a href="./drielagenmodel.html">Drielagenmodel</a>
+     |
+   <a href="./moederbord.html">Moederbord</a>
+     |
+   <a href="./processorengeheugen.html">Processor en geheugen</a>
+     |
+   <a href="./besturingssysteem.html">Besturingssysteem</a></p>
+    
+    
+    <h1 align="center">Processor en geheugen</h1>
+   
+    <h2 align="center">Algemeen</h2>
+    <p align="center">De processor is een onmisbaar onderdeel 
+      in een computer. De processor bepaalt namelijk voor een 
+      heel groot deel de prestaties van je computer. En daarbij 
+      heb je hem ook echt nodig, want zonder processor zal een 
+      computer niet werken (niet eens opstarten). Processor afgekort 
+      is CPU (Central Processing Unit).</p>
+    
+    <h2 align="center">Het hart van de computer</h2>
+    <p align="center">De processor wordt ook wel het hart van 
+      de computer genoemd, want de processor is namelijk verantwoordelijk 
+      voor alle berekeningen en aansturingen die in een computer 
+      plaatsvinden. Oftewel, hoe sneller de processor, hoe meer berekeningen 
+      en aansturingen er per seconde kunnen worden verwerkt.</p>
+    
+    <h2 align="center">De snelheid van een processor</h2>
+    <p align="center">Er zijn verschillende factoren die de snelheid 
+      van een processor bepalen:</p>
+    <p align="center">Aantal processorkernen; Vroeger was een processor gewoon 
+      één processor. Tegenwoordig kunnen er meerdere processorkernen in
+      één processor zitten. Als er 2 processorkernen in een processor zitten 
+      dan noemen we dit een Dual Core processor. Bij 4 processorkernen in 
+      een processor noemen we dit een Quad Core processor. En bij 6 
+      processorkernen noemen we dit een Hexa Core processor.</p>
+    <p align="center">De kloksnelheid;De kloksnelheid zegt eigenlijk hoeveel
+      taken een processorkern in 1 seconde kan doen. Dus hoe hoger de snelheid, 
+      hoe meer taken een processor per seconde kan doen. De kloksnelheid wordt 
+      uitgedrukt in Herz (Hz), maar tegenwoordig worden processoren zo snel
+      dat er tegenwoordig in Giga Herz (GHz) wordt aangegeven wat de kloksnelheid 
+      van een processor is.</p>
+    <p align="center">Het cachegeheugen; Om berekeningen te kunnen doen, moet de 
+      processor gegevens hebben om aan de slag te kunnen gaan en deze moet de processor
+      ergens vandaan halen. Om dit zo snel mogelijk te doen is er een stukje geheugen 
+      in de processor geplaatst. Dit heet het cachegeheugen. Dus hoe groter het
+      cachegeheugen, hoe meer gegevens de processor snel bij de hand
+      heeft.</p>
+    
+    <h2 align="center">Hoe ziet een CPU eruit?<h2>
+    <p align="center"><img src="beste-cpu-gaming-pc-2.jpg" alt="CPU in detail" style="width:450px;height:450px;"><p>
+      
+      
+        
+  </body>
+</html>
